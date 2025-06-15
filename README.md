@@ -31,4 +31,13 @@ An interactive Streamlit web app to compare multiple machine learning models on 
    ```bash
    git clone https://github.com/your-username/ml-model-comparator.git
    cd ml-model-comparator
+   
+2. Install dependencies:
 
+```bash
+pip install -r requirements.txt
+
+3.Run the app:
+
+```bash
+streamlit run Ml_Model_Comparator.py
