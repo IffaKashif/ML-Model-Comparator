@@ -29,7 +29,7 @@ An interactive Streamlit web app to compare multiple machine learning models on 
 
 1. Clone the repo or download files:
    ```bash
-   git clone https://github.com/your-username/ml-model-comparator.git
+   git clone https://github.com/IffaKashif/ML-Model-Comparator.git
    cd ml-model-comparator
    
 2. Install dependencies:
