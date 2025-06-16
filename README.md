@@ -25,7 +25,7 @@ An interactive Streamlit web app to compare multiple machine learning models on 
 
 ---
 
-## 📦 Installation & Usage
+## Installation & Usage
 
 1. Clone the repo or download files:
    ```bash
@@ -33,9 +33,9 @@ An interactive Streamlit web app to compare multiple machine learning models on 
    cd ml-model-comparator
    
 2. Install dependencies:
-```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 3. Run the app:
-```bash
-streamlit run Ml_Model_Comparator.py
+   ```bash
+   streamlit run Ml_Model_Comparator.py
